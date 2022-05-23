@@ -2,4 +2,6 @@
 
 Team number 10
 
-Javier Alfonso, Leonardo Madsen, Joan Balaguer
+* Javier Alfonso
+*  Leonardo Madsen
+*  Joan Balaguer
